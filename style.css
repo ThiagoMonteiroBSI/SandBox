@@ -103,4 +103,24 @@ li a {
     color: #000000;
     font-weight: bold;
 }
-
+.principal-container {
+    display: flex;
+    width: 90%;
+    background-color: aqua;
+    
+}
+.only-img {
+    margin-right: 0;
+    background-color: blue;
+    
+}
+.only-img img {
+    width:600px;
+    height: 400px;
+}
+.web-desing-title {
+    display: flex;
+    padding-left: 10px;
+    margin-left: 0;
+    background-color: cadetblue;
+}
