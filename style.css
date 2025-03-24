@@ -133,7 +133,7 @@ li a {
     align-items: center; /* PEDIR AJUDAR pro sor pra alinhar um de baixo do outro*/
     background-color: rgb(252, 252, 252);
     margin-right: 2% ;
-    
+    flex-direction: column;
 }
 .correct-setences img {
     width: 20px;
@@ -156,4 +156,7 @@ li a {
 .section-video video {
     width: 80%;
     margin-right: 5%;
+}
+.imgtest {
+    display: flex;
 }
