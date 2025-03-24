@@ -110,7 +110,7 @@ li a {
     
 }
 .only-img {
-    margin-right: 0;
+    margin-left: 300px;
     background-color: blue;
     
 }
@@ -119,8 +119,9 @@ li a {
     height: 400px;
 }
 .web-desing-title {
-    display: flex;
+
+    display: inline;
     padding-left: 10px;
-    margin-left: 0;
+    margin-left: 100px;
     background-color: cadetblue;
 }
