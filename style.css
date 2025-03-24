@@ -9,6 +9,7 @@ header{
     padding-bottom: 0px;
 }
 
+
 .logotype img{
     display: flex;
     background-color: rgb(255, 255, 255);
@@ -89,7 +90,7 @@ li a {
     justify-content: center;
     background-color: rgb(255, 255, 255);
     margin: 0;
-    padding-bottom: 0px;
+    padding-bottom: 20px;
     font-size: 26px;
     color: gray;
 }
@@ -108,9 +109,10 @@ li a {
     width: 90%;
     background-color: rgb(255, 255, 255);
     
+    
 }
 .only-img {
-    margin-left: 300px;
+    margin-left: 125px;
     background-color: rgb(248, 248, 248);
     
 }
@@ -144,4 +146,14 @@ li a {
     border-radius: 50%;
     padding: auto;
     margin-right: 2%;
+}
+.section-video {
+    display: flex;
+    margin: 100px;
+    justify-content: center;
+    width: 100%;
+}
+.section-video video {
+    width: 80%;
+    margin-right: 5%;
 }
