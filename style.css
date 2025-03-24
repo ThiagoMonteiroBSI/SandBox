@@ -106,12 +106,12 @@ li a {
 .principal-container {
     display: flex;
     width: 90%;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
     
 }
 .only-img {
     margin-left: 300px;
-    background-color: blue;
+    background-color: rgb(248, 248, 248);
     
 }
 .only-img img {
@@ -123,5 +123,25 @@ li a {
     display: inline;
     padding-left: 10px;
     margin-left: 100px;
-    background-color: cadetblue;
+    background-color: rgb(255, 255, 255);
+    margin-left: 2%;
+}
+.correct-setences {
+    display: -webkit-flex;
+    align-items: center; /* PEDIR AJUDAR pro sor pra alinhar um de baixo do outro*/
+    background-color: rgb(252, 252, 252);
+    margin-right: 2% ;
+    
+}
+.correct-setences img {
+    width: 20px;
+    height: 20px;
+     
+}
+.container-icon {
+    background-color: rgb(179, 147, 147);
+    justify-content: center;
+    border-radius: 50%;
+    padding: auto;
+    margin-right: 2%;
 }
