@@ -132,7 +132,7 @@ li a {
     display: -webkit-flex;
     align-items: center; /* PEDIR AJUDAR pro sor pra alinhar um de baixo do outro*/
     background-color: rgb(252, 252, 252);
-    margin-right: 2% ;
+    margin-right: 5% ;
     flex-direction: column;
 }
 .correct-setences img {
@@ -146,6 +146,7 @@ li a {
     border-radius: 50%;
     padding: auto;
     margin-right: 2%;
+    margin-top: 3%;
 }
 .section-video {
     display: flex;
@@ -159,4 +160,5 @@ li a {
 }
 .imgtest {
     display: flex;
+    padding: 10px;
 }
